@@ -38,3 +38,12 @@ TEST_CASE("Testing prefix_sum function") {
         CHECK(!non_positive_sum(nums_4, sizeof(nums_4) / sizeof(nums_4[0])));
     }
 }
+
+
+
+
+
+
+
+
+
